@@ -1,0 +1,102 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skill/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "GraphQL",
+      "imageSrc": "skills/graphql.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skill/mongo2.webp"
+    },
+    {
+      "title": "Nextjs",
+      "imageSrc": "skill/nextjs.png"
+    },
+    {
+      "title": "Prisma",
+      "imageSrc": "skill/prisma.png"
+    },
+    {
+      "title": "PostgreSQL",
+      "imageSrc": "skill/psgwith-naem.png"
+    },
+    {
+      "title": "AWS",
+      "imageSrc": "skill/aws.png"
+    },
+    {
+      "title": "Docker",
+      "imageSrc": "skill/docker.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skill/git.png"
+    },
+    {
+      "title": "Jenkins",
+      "imageSrc": "skill/jenkins.png"
+    },
+    {
+      "title": "kubernetes",
+      "imageSrc": "skill/kubernetes.webp"
+    },
+    {
+      "title": "linux",
+      "imageSrc": "skill/linux.png"
+    },
+    {
+      "title": "Wordpress",
+      "imageSrc": "skills/wordpress.webp"
+    },
+    {
+      "title": "Zod",
+      "imageSrc": "skills/zod.png"
+    },
+    {
+      "title": "Postman",
+      "imageSrc": "skill/postman.png"
+    },
+    {
+      "title": "CloudFlare",
+      "imageSrc": "skill/cloudflare.png"
+    },
+    {
+      "title": "Django",
+      "imageSrc": "skill/django.png"
+    },
+    {
+      "title": "C",
+      "imageSrc": "skill/C.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skill/java.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skill/python.webp"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skill/js.png"
+    },
+    {
+      "title": "TypeScript",
+      "imageSrc": "skill/ts.webp"
+    }
+  ]

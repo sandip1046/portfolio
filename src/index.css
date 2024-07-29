@@ -1,0 +1,14 @@
+/* styling for the entire websites */
+/* apply to the every single element of the web pages */
+/* to apply for the every single elemenet we use * symbol */
+
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding: 0;
+  font-family: "Outfit" Arial, Helvetica, sans-serif;
+}
+
+html{
+  scroll-behavior: smooth;
+}

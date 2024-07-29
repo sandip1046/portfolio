@@ -1,0 +1,21 @@
+/* we creates this files because we will also css variables */
+/* variables lets us to define certain property such as fonts,colors, in a single and just we can import these variables
+                   at multiple other places.  this helps us  in easy modificaton of the value at on place
+*/
+
+/* to define variable we will use : */
+
+:root {
+
+    /* colors */
+    --color-text: #fff;
+    --color-primary: #576cbc;
+    --color-secondary: #19376d;
+    --color-dark: #0b2447;
+    --color-bg: #04152d;
+
+    /* fonts */
+    --font-roboto:"Roboto";
+
+
+}
