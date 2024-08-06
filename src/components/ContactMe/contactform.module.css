@@ -1,0 +1,121 @@
+@import "../../vars.css";
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.Formcontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0 16px 14px 0 #04152d;
+    border-color: rgb(187, 235, 235);
+    background-color: rgb(12, 67, 81);
+    /* margin-top: 15px; */
+    padding: 18px 24px;
+    max-width: 345px;
+    box-sizing: border-box;
+
+
+}
+
+.Heading{
+    margin-top: 25px;
+    margin-bottom: 20px;
+    font-size:xx-large;
+    font-family: var(--font-roboto);
+    font-weight: bolder;
+     color:aliceblue;
+     display:flex;
+     flex-direction: row;
+     align-items: start;
+     justify-content: left;
+
+}
+
+.info{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns with equal width */
+    gap: 16px; /* Space between input boxes */
+}
+
+@media (max-width: 600px) {
+    .info {
+      grid-template-columns: 1fr; /* Single column layout on small screens */
+    }
+  }
+
+.address{
+
+}
+
+.message{
+
+}
+
+.infoInput{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.adressInput{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.messageInput{
+    width: 100%;
+    height: 100px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.contactBtn {
+    text-decoration: none;
+    font-family: var(--font-roboto);
+    background-color: var(--color-primary);
+    color: var(--color-text);
+    font-size: 26px;
+    font-weight: 600px;
+    padding: 17px 26px;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+    width: 199px;
+    height: 68px;
+    margin-top: 25px;
+    margin-left: 28px;
+    margin-bottom: 10px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.contactBtn:hover {
+    text-decoration: none;
+    background-color: rgba(58, 92, 197, 0.7);
+    color: var(--color-text);
+    font-size: 26px;
+    font-weight: 600px;
+    padding: 17px 26px;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+    width: 199px;
+    height: 68px;
+    margin-top: 25px;
+    margin-left: 28px;
+    margin-bottom: 10px;
+    border-radius: 100px;
+    align-items: center;
+
+}
