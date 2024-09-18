@@ -18,8 +18,8 @@
     {
       "title": "LMS- Ongoing",
       "imageSrc": "projects/project.png",
-      "description": "Learning Management System (LMS) using Next.js for the frontend, Express for the backend, MongoDB for the database, and Redis for caching, with features like payment integration, course access management, and an admin dashboard.",
-      "skills": ["Next.js", "Express", "Node", "MongoDB", "Redis", "Payment Integration","RTK","Socket.io","Cloudinary","jwt"],
+      "description": "Learning Management System (LMS) using Next.js - frontend, Express -backend, MongoDB -database, and Redis -caching, payment integration, course access management, and an admin dashboard.",
+      "skills": ["Next.js", "Express", "MongoDB", "Redis","RTK","Socket.io","Cloudinary","jwt"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }
