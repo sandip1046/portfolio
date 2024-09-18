@@ -1,4 +1,3 @@
-import React from 'react'
 import styles from "./skill.module.css";
 import { getImageUrl } from '../../utils';
 import skill from "../../data/skill.json";

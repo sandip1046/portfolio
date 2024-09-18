@@ -1,25 +1,25 @@
 [
     {
-      "title": "Project A",
+      "title": "EdTECH",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "I built an EdTech project using React for the frontend, Tailwind CSS for styling, and Firebase for the backend. Key features include user authentication, payment-integration with PayPal and card payments, coupon management, and analytics with Firebase.",
+      "skills": ["React", "Firebase", "Payment Integration"],
+      "demo": " https://sandip-ed-tech.vercel.app/",
+      "source": "https://github.com/sandip1046/EdTech"
     },
     {
-      "title": "Project B",
+      "title": "ACONEWS",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Saas"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "I developed the Acowale News project using React, Tailwind CSS, and TypeScript for the frontend, with a Node.js and Express backend to fetch and display news from an API.",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "demo": "https://aco-news-44f85.web.app",
+      "source": "https://github.com/sandip1046?tab=repositories"
     },
     {
-      "title": "Project C",
+      "title": "LMS- Ongoing",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "Learning Management System (LMS) using Next.js for the frontend, Express for the backend, MongoDB for the database, and Redis for caching, with features like payment integration, course access management, and an admin dashboard.",
+      "skills": ["Next.js", "Express", "Node", "MongoDB", "Redis", "Payment Integration","RTK","Socket.io","Cloudinary","jwt"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }
